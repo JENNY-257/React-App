@@ -1,0 +1,2 @@
+<a href="https://codeclimate.com/github/JENNY-257/React-App/test_coverage"><img src="https://api.codeclimate.com/v1/badges/f4b896ea1a2c4251a030/test_coverage" /></a>
+[![Maintainability](https://api.codeclimate.com/v1/badges/f4b896ea1a2c4251a030/maintainability)](https://codeclimate.com/github/JENNY-257/React-App/maintainability)
